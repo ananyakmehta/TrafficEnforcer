@@ -1,2 +1,2 @@
-# TrafficRules
-    # An automotive system that will automatically enforce special driving zone requirements like speed, noise, and light levels.
+# Traffic Enforcer
+    # An automotive system that automatically enforces special driving zone requirements like speed, noise, and light levels.
